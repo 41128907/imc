@@ -43,7 +43,7 @@ public class Imc {
            else if ((imc >= 25) && (imc < 30))
                    System.out.printf(" (acima do peso).\n");
                 else if ((imc >= 30) && (imc < 34))
-                        System.out.printf(" (obeso).\n");
+                        System.out.printf(" (obeso, muito acima do peso).\n");
                      else
                         System.out.printf(" (muito obeso).\n");
     }
